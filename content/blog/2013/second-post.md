@@ -5,7 +5,7 @@ tags=blog
 status=published
 ~~~~~~
 
-### 안녕하세요!
+### 안녕세요!
 
 
 * [http://example.org](http://example.org)
