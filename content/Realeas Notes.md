@@ -12,6 +12,7 @@ TC Console
 * Infrastructure 요금 테이블 변경
 	* Infrastructure 요금제에 Basic 과 Storage Optimized 요금제가 추가 되었습니다.
 	* 저사양 Basic 과 High IOPS SSD를 제공하는 Storage Optimized를 제공 받으실 수 있습니다.
+	* 자세한 사양은 <a href="https://cloud.toast.com/pricing" target=_blank">TOASTCloud Pricing 페이지</a> 및 요금계산기서 확인 할 수 있습니다.
 * Billing Viewer 권한 추가
 	* Project의 Member 권한중 사용량 페이지를 조회할 수 있는
 	* Billing Viewer는 Project 내의 모든 행위는 제한 되며,

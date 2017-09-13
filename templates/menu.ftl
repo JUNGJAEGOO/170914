@@ -1,8 +1,10 @@
 
 
 <!-- Fixed navbar -->
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-      <div class="container">
+    <header id="header">
+    </header>
+    <div id="navbar" clast="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div>
         <div class="navbar-header" style="padding-top : 30px;">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
             <span class="sr-only">Toggle navigation</span>
