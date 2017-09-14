@@ -4,10 +4,11 @@ type=page
 status=published
 ~~~~~~
 
-#2017.08.24
 
-기능 개선/변경
-TC Console
+<h2 id="toast-cloud-release-notes">TOAST Cloud &gt; Release Notes</h2>
+<h3 id="20170824">2017.08.24</h3>
+<h4 id="_1">기능 개선/변경</h4>
+<h5 id="tc-console">TC Console</h5>
 
 * Infrastructure 요금 테이블 변경
 	* Infrastructure 요금제에 Basic 과 Storage Optimized 요금제가 추가 되었습니다.
@@ -25,6 +26,39 @@ TC Conosole
 	* 공지사항 ALL, FAQ 카테고리 글자가 나타나지 않는 현상이 수정되었습니다.
 
 
-#2017.06.22
-기능 개선/변경
+<h4 id="_2">버그 수정</h4>
+<h5 id="tc-console_2">TC Console</h5>
 
+<h3 id="201622">2017.06.22</h3>
+<h4 id="_3">기능 개선/변경</h4>
+<h5 id="tc-console_3">TC Console</h5>
+
+
+
+<h3 id="20170525">2017.05.25</h3>
+<h4 id="_4">기능 개선/변경</h4>
+<h5 id="tc-console_4">TC Console</h5>
+
+<h4 id="_5">버그 수정</h4>
+<h5 id="tc-console_4">TC Console</h5>
+
+
+<h3 id="20170420">2017.04.20</h3>
+<h4 id="_6">기능 개선/변경</h4>
+<h5 id="tc-console_5">TC Console</h5>
+
+
+<h4 id="_7">버그 수정</h4>
+<h5 id="tc-console_6">TC Console</h5>
+
+<h3 id="20170323">2017.03.23</h3>
+<h4 id="_8">기능 개선/변경</h4>
+<h5 id="tc-console_7">TC Console</h5>
+
+<h4 id="_9">버그 수정</h4>
+<h5 id="tc-console_8">TC Console</h5>
+
+
+<h3 id="20170223">2017.02.23</h3>
+<h4 id="_10">기능 개선/변경</h4>
+<h5 id="tc-console_9">TC Console</h5>
